@@ -1,0 +1,127 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Technology company.",
+      "marketcap": "$2.97 trillion"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Technology cooperation.",
+      "marketcap": "$2.78 trillion"
+    },
+    {
+      "id": 3,
+      "name": "Saudi Aramco",
+      "description": "Energy and chemicals company.",
+      "marketcap": "$2.14 trillion"
+    },
+    {
+      "id": 4,
+      "name": "Alphabet (Google)",
+      "description": "Multinational technology conglomerate holding company.",
+      "marketcap": "$1.66 trillion"
+    },
+    {
+      "id": 5,
+      "name": "Amazon",
+      "description": "Largest online retailer in the world.",
+      "marketcap": "$1.51 trillion"
+    },
+    {
+      "id": 6,
+      "name": "Nvidia",
+      "description": "Develops and manufactures graphics processing units (GPUs).",
+      "marketcap": "$1.16 trillion"
+    },
+    {
+      "id": 7,
+      "name": "Meta",
+      "description": "Biggest products are its social networks, Facebook, and Instagram.",
+      "marketcap": "$834.75 billion"
+    },
+    {
+      "id": 8,
+      "name": "Tesla",
+      "description": "It's the most valuable automaker in the world.",
+      "marketcap": "$759.22 billion"
+    },
+    {
+      "id": 9,
+      "name": "Visa",
+      "description": "The most widespread payment network in the world.",
+      "marketcap": "$522.70 billion"
+    },
+    {
+      "id": 10,
+      "name": "Mastercard",
+      "description": "A payment network, and Visa's main competitor.",
+      "marketcap": "$388.08 billion"
+    },
+    {
+      "id": 11,
+      "name": "Tencent",
+      "description": "Internet and technology company.",
+      "marketcap": "$3.80 billion"
+    }
+  ],
+  "top-economies": [
+    {
+      "country": "USA",
+      "gdp": "$25.5 trillion",
+      "id": 1
+    },
+    {
+      "country": "China",
+      "gdp": "$18.0 trillion",
+      "id": 2
+    },
+    {
+      "country": "Japan",
+      "gdp": "$4.2 trillion",
+      "id": 3
+    },
+    {
+      "country": "Germany",
+      "gdp": "$4.1 trillion",
+      "id": 4
+    },
+    {
+      "country": "India",
+      "gdp": "$3.4 trillion",
+      "id": 5
+    },
+    {
+      "country": "United Kingdom",
+      "gdp": "$3.1 trillion",
+      "id": 6
+    },
+    {
+      "country": "France",
+      "gdp": "$2.8 trillion",
+      "id": 7
+    },
+    {
+      "country": "Russia",
+      "gdp": "$2.2 trillion",
+      "id": 8
+    },
+    {
+      "country": "Canada",
+      "gdp": "$2.1 trillion",
+      "id": 9
+    },
+    {
+      "country": "Italy",
+      "gdp": "$2.0 trillion",
+      "id": 10
+    },
+    {
+      "country": "Brazil",
+      "gdp": "$1.92 trillion",
+      "id": 11
+    }
+  ]
+}
